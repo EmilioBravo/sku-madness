@@ -1,0 +1,11 @@
+{
+    "name": "thiagooak/sku-madness",
+    "description": "SKU generation using base conversion",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["src/ThiagoOak/SkuMadness/"]
+    },
+    "require": {
+        "ext-bcmath":"*"
+    }
+}
